@@ -105,12 +105,15 @@ A two-page Power BI report was created to provide an interactive view of:
 
 ### Dashboard Overview
 
-<img width="593" height="337" alt="Walmart Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/8505c271-14bf-4bb0-8800-599dc2313e4e" />
+<img width="584" height="335" alt="Walmart Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/9bc0f1eb-55b8-460f-bb6a-83d146c79d5f" />
+
+
 
 
 ### Store and Holiday Analysis
 
-<img width="581" height="339" alt="Store   Holiday Analysis Dashboard" src="https://github.com/user-attachments/assets/f1386443-7dc1-43a3-aaf5-f7e5772dfc7c" />
+<img width="586" height="334" alt="Store   Holiday Analysis Dashboard" src="https://github.com/user-attachments/assets/10b3a8fd-88ee-40b8-8458-1942d96de7fc" />
+
 
 
 
