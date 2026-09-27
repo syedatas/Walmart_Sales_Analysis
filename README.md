@@ -90,6 +90,8 @@ Temperature, fuel prices, CPI, and unemployment showed only weak linear relation
 These results suggest that none of these variables alone explains a large portion of the variation in store sales.
 
 ### Power BI Dashboard
+https://github.com/syedatas/Walmart_Sales_Analysis/blob/main/Walmart_Retail_Sales_Dashboard.pbix
+
 
 A two-page Power BI report was created to provide an interactive view of:
 
